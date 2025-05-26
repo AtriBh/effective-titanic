@@ -56,11 +56,4 @@ Learn how to clean and prepare raw data for machine learning using basic data pr
 
 ---
 
-## 📁 Project Files
-
-```
-├── data/
-│   └── titanic.csv
-├── preprocessing.ipynb
-├── README.md
 
